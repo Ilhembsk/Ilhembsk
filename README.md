@@ -7,12 +7,12 @@
 
 Here are some ideas to get you started:
 
-Hi 👋, I'm Ilhem
+Hi 👋, I'm Ilhem,
 
 - 🔭 I worked on 2 projects during my training: Journey Customization and Globpaacker.
 - 👀 I'm interested in web design.
 - 🌱 I’m currently learning code at Le Wagon.
-- 📫 How to reach me by private message.
+- 📫 How to reach me by private message.>
 
 
 
